@@ -1,0 +1,10 @@
+created: 20220305122111631
+creator: Gus.ho
+modified: 20220305124547511
+modifier: Gus.ho
+tags: 开发生命周期
+title: 增量型
+tmap.id: 6cb2bc0a-5da4-47f9-a007-1922cf152a05
+type: text/vnd.tiddlywiki
+
+预定时间区间内渐进增加产品功能，在最后一次增量后才能被视为完整，''渐进的增加''，总结：''从“部分”到“整体”''

@@ -1,0 +1,10 @@
+created: 20220305122323278
+creator: Gus.ho
+modified: 20220305123534597
+modifier: Gus.ho
+tags: 开发生命周期
+title: 适应型（敏捷型）
+tmap.id: 5e4bc9bb-8fa2-462c-a6cc-62d989ef98de
+type: text/vnd.tiddlywiki
+
+把所有功能放到代办列表，''按照优先级排序''，完成首要功能开发后，给相关方进行演示验证，如相关方提出修改需求，再''把修改需求放入代办列表中重新排序''
